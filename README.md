@@ -33,6 +33,6 @@ ikuti langkah instalasi dari link berikut:
 
 
 Author by:
-Diva Amelia Saputri (123140212)
-Arta Eka Yuli Rajagukguk (123140209)
-Revolusi Al-Ghifari (123140199)
+- Diva Amelia Saputri (123140212)
+- Arta Eka Yuli Rajagukguk (123140209)
+- Revolusi Al-Ghifari (123140199)
